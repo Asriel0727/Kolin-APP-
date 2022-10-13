@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">寶可夢養成</string>
+
+    <integer-array name="MainImages_list">
+
+        <item>@drawable/food1</item>
+        <item>@drawable/food2</item>
+        <item>@drawable/food3</item>
+
+    </integer-array>
+
+    <integer-array name="DessertImages_list">
+
+        <item>@drawable/sweetfood1</item>
+        <item>@drawable/sweetfood2</item>
+        <item>@drawable/sweetfood3</item>
+
+    </integer-array>
+</resources>
