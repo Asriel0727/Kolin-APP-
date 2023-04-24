@@ -1,5 +1,5 @@
 # Kolin-APP-寶可夢養成遊戲製作
-[Demmo網址](https://www.youtube.com/watch?v=durHt50sgiI)   
+[Demo網址](https://www.youtube.com/watch?v=durHt50sgiI)   
 用Android APP Kolin製作  
 ## APP功能介紹
 - 提供願望清單讓使用者許願未來推出的養成寶可夢(利用資料庫紀錄，並且可以新增刪除查詢，並透過Id排序)  
